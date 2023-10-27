@@ -1,6 +1,6 @@
 # SUPPLEMENT Sandwich vegan
 
--   HUMMUS
+-   HUMMUS.
 -   végétalien
 -   Graines et noix
 
