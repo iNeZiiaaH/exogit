@@ -1,0 +1,16 @@
+# Ingrédients pour un Sandwich Vegan
+
+- **Pain à Sandwich** (2 morceaux)
+- **Steak Végétal** (1)
+- **Laitue** (feuilles)
+- **Tomate** (tranches)
+- **Avocat** (tranches)
+- **Concombre** (rondelles)
+- **Oignon Rouge** (rondelles)
+- **Poivron Rouge** (rondelles)
+- **Houmous** (2 cuillères à soupe)
+- **Moutarde de Dijon Végétalienne** (1 cuillère à soupe)
+- **Sel** (au goût)
+- **Poivre** (au goût)
+
+![Sandwich Vegan](Vegan.jpg)
