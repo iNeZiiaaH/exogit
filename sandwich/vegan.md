@@ -14,8 +14,4 @@
 - **Poivre** (au goût)
 - **Poivre** (au goût)
 - - **Poivre** (au goût)
-- **Sel** (au goût)
-- **Poivre** (au goût)
-- **Poivre** (au goût)
-- - **Poivre** (au goût)
 ![Sandwich Vegan](Vegan.jpg)
