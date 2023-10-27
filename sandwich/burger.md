@@ -12,5 +12,6 @@
 - **Mayonnaise** (1 cuillère à soupe)
 - **Sel** (au goût)
 - **Poivre** (au goût)
+- **Chedara** (1 tranche)
 
 ![Burger](burger.jpeg)
