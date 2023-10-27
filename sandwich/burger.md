@@ -4,5 +4,5 @@
 - JALAPENIOS
 - SAUCE BRAZIL
 
-![ognions](sandwich\oignons-frits-grilles.jpg)
-![jalapenos](sandwich\Pickled-Jalapenos-above.jpg)
+![ognions](oignons-frits-grilles.jpg)
+![jalapenos](Pickled-Jalapenos-above.jpg)
